@@ -1,0 +1,16 @@
+.venv\Scripts\activate.bat //para acesar o ambiente virtual no wndwos
+
+tarefas do projeto:
+listar as tarefas
+adicionar tarefa
+remover tarefa
+ordenar a listagem por estado
+finalizar uma tarefa
+exibir uma tarefa de forma detalhada
+
+
+link para acesso aplicaçao heroku
+https://powerful-plains-85504.herokuapp.com/ | https://git.heroku.com/powerful-plains-85504.git
+
+enviar para o heroku "buildar"
+git push heroku main
